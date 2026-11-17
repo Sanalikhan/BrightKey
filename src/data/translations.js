@@ -64,6 +64,7 @@ export const translations = {
       viewProfile: 'View Profile',
       specialties: 'Specialties',
       languages: 'Languages',
+      disclaimer: 'Disclaimer: This is a showcase project. All agents, names, contact information, and profiles are entirely fictional and created for demonstration purposes only. Any resemblance to real persons is purely coincidental.',
     },
     property: {
       overview: 'Overview',
@@ -159,6 +160,7 @@ export const translations = {
       viewProfile: 'Profili Görüntüle',
       specialties: 'Uzmanlık Alanları',
       languages: 'Diller',
+      disclaimer: 'Feragatname: Bu bir vitrin projesidir. Tüm danışmanlar, isimler, iletişim bilgileri ve profiller tamamen kurgusaldır ve yalnızca gösteri amaçlıdır. Gerçek kişilerle herhangi bir benzerlik tamamen tesadüfidir.',
     },
     property: {
       overview: 'Genel Bakış',
